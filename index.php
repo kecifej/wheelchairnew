@@ -129,12 +129,12 @@
 					<div class="divTableRow">
 						<div id="product-description" 		  	  class="divTableCellInfo">
 
-							<h3 id="product-header">Private program for Escape From Tarkov.This program will highlight scavs, bosses, raiders and highlight the player models, tru walls.</h3>
+							<h3 id="product-header">Private program for Escape From Tarkov.This program will highlight scavs, bosses, raiders and highlight the player models, through walls.</h3>
 							
 
 							<div style="text-align:center;"
 								class="description">
-								<br><h3>Works on every windows build.</h3>
+								<br><h3>Works on every Windows build.</h3>
 								<br><h3>WallHack for the whole map. 	(PMCs,Scavs,Raiders,Bosses)<br>
 								<br>Loot ESP (displayed in a 10-15 meter radius behind the walls)</h3>
 							</div>
@@ -148,10 +148,10 @@
 							<pre id="product-disclaimer">By purchasing this product, the user confirms the fact of familiarization with this agreement,which is:
 								
 								<h3>1.Buying LIFETIME, the user understands that this means using the software as long as it can work.</h3>
-								<h3>2. Refund is made only if the software has stopped working during the subscription period.</h3>
-								<h3>3.A refund for the sub will LIFETIME occur if the software stops working within 30 days from the date of purchase</h3>
+								<h3>2.Refund is made only if the software has stopped working during the subscription period.</h3>
+								<h3>3.A refund for the sub will LIFETIME occur if the software stops working within 30 days from the date of purchase.</h3>
 								<h3>4.Sometimes we give a new account, but we need to check for what reason your account was blocked. If this is your fault we will not provide you a new account.</h3>
-								<h3>To purchase, you have to join the discord server, and make a ticket, or contact any of the sellers, or owners.</h3></pre>
+								<h3>To purchase, you have to join the discord server, and make a ticket, or contact any of the sellers, or developers.</h3></pre>
 						</div>
 					</div>
 
