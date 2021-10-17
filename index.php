@@ -11,16 +11,36 @@
 		content="cheat, cheats, macro, macros, key, keys, account, accounts, digital products, digital services, tarkov, tarkov cheats, tarkov esp, esp, wallhack, tarkov wallhack, tarkov hack, wheelchair, wheelchairware, wheel chair ware, wheel chairware, ware, tarkov wheelchair, tarkov chair, tarkov wheelchairware, tarkov wheel chair ware, wheelchairware tarkov">
 
 	<link rel='stylesheet' href='style.css' type='text/css' media='all'>
+	
 	<link rel="icon" href="wh1.ico" type="image/x-icon">
 
 
 </head>
 
 <body>
+	<div class="navigation">
+		<!--<h1 class="logo">Wheel<span>Chair.</span></h1>-->
+  
+		<input type="checkbox" class="navigation__checkbox" id="toggle">
+		<label for="toggle" class="navigation__button">
+			<span class="navigation__icon">&nbsp;</span>
+		</label>
+  
+		<div class="navigation__background">&nbsp;</div>
+  
+		<nav class="navigation__nav">
+			<ul class="navigation__list">
+				<li><a href="#status" class="navigation__link"> Showcase</a></li>
+				<li><a href="#product-status" class="navigation__link">Product status</a></li>
+				<li><a href="#description" class="navigation__link">Description</a></li>
+				<li><a href="#purchase" class="navigation__link">Purchase</a></li>
+				<li><a href="https://discord.gg/6RSccUTZ2z" class="navigation__link">Contact us</a></li>
+			</ul>
+		</nav>
+	</div>
 
-
-
-
+	
+	
 	<div id='stars'></div>
 	<div id='stars2'></div>
 	<div id='stars3'></div>
@@ -46,6 +66,7 @@
 			<path d="M110.22,297.355L110.22,290.237L11.607,290.237L11.607,163.485L439.393,163.485L439.393,290.237L340.78,290.237L340.78,297.355L446.512,297.355L446.512,156.366L4.488,156.366L4.488,297.355L110.22,297.355Z" style="fill:rgb(0, 255, 255, 0.3);"/>
 		</g>
 	</svg></center>
+	
 
 		<div class='title'>
 		
@@ -69,7 +90,7 @@
 	<div class="divTable" style="max-width: 100%;">
 
 
-
+		<a name="status"></a>
 		<div class="divTables">
 			<div class="divTable">
 				<div class="divTableHeading">
@@ -87,7 +108,7 @@
 			</div>
 		</div>
 
-
+		<a name="product-status"></a>
 		<div class="divTables">
 
 
@@ -116,7 +137,7 @@
 
 
 
-
+				<a name="description"></a>
 				<div class="divTableHeading">
 
 					<div id="product-description-head" class="divTableHeadCyan" style="text-align: center">DESCRIPTION
@@ -129,29 +150,31 @@
 					<div class="divTableRow">
 						<div id="product-description" 		  	  class="divTableCellInfo">
 
-							<h3 id="product-header">Private program for Escape From Tarkov.This program will highlight scavs, bosses, raiders and highlight the player models, through walls.</h3>
+							<h3 id="product-header">Private program for Escape From Tarkov.This program will highlight scavs, bosses, raiders and highlight the player models, tru walls.</h3>
 							
 
 							<div style="text-align:center;"
 								class="description">
-								<br><h3>Works on every Windows build.</h3>
+								<br><h3>Works on every windows build.</h3>
 								<br><h3>WallHack for the whole map. 	(PMCs,Scavs,Raiders,Bosses)<br>
 								<br>Loot ESP (displayed in a 10-15 meter radius behind the walls)</h3>
 							</div>
 						</div>
 					</div>
 				</div>
+				
 				<div id="product-purchase-head" class="divTableHeadCyan" style="text-align: center">PURCHASE</div>
 				<div class="divTableBody">
 					<div class="divTableRow">
 						<div class="divTableCellInfo">
+							<a name="purchase"></a>
 							<pre id="product-disclaimer">By purchasing this product, the user confirms the fact of familiarization with this agreement,which is:
 								
 								<h3>1.Buying LIFETIME, the user understands that this means using the software as long as it can work.</h3>
-								<h3>2.Refund is made only if the software has stopped working during the subscription period.</h3>
-								<h3>3.A refund for the sub will LIFETIME occur if the software stops working within 30 days from the date of purchase.</h3>
+								<h3>2. Refund is made only if the software has stopped working during the subscription period.</h3>
+								<h3>3.A refund for the sub will LIFETIME occur if the software stops working within 30 days from the date of purchase</h3>
 								<h3>4.Sometimes we give a new account, but we need to check for what reason your account was blocked. If this is your fault we will not provide you a new account.</h3>
-								<h3>To purchase, you have to join the discord server, and make a ticket, or contact any of the sellers, or developers.</h3></pre>
+								<h3>To purchase, you have to join the discord server, and make a ticket, or contact any of the sellers, or owners.</h3></pre>
 						</div>
 					</div>
 
@@ -173,7 +196,7 @@
 	<footer>
 
 	</footer>
-
+<script src="main.js"></script>
 </body>
 
 </html>
