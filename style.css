@@ -8,6 +8,11 @@ html {
 	font-size: 14px;
 	text-shadow: 0 0 10px rgba(255, 255, 255, 0.25);	
 	min-width: 532;
+	scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+	display: none;
 }
 
 @media (-webkit-min-device-pixel-ratio: 1.25) 
@@ -385,6 +390,7 @@ pre {
 
 .divTableRow {
 	display: table-row;
+
 }
 
 .divTableCell, .divTableCellInfo, .divTableCellButtons, .divTableHead, .divTableCellRed, .divTableCellYellow, .divTableCellLime, .divTableCellCyan, .divTableCellMagenta, .divTableHeadRed, .divTableHeadYellow, .divTableHeadLime, .divTableHeadCyan, .divTableHeadMagenta {
@@ -502,3 +508,24 @@ a.ask-btn:hover{
 	color: white;
 	background-color: rgba(0, 255, 255, 0.5);
 }
+
+#product-disclaimer {
+	text-align: left;
+
+}
+
+h3 {
+	text-align: justify;
+}
+
+.description {
+
+	text-align: left;
+	padding-left: 70px;
+}
+
+#product-header {
+
+	padding-left: 45px;
+}
+
