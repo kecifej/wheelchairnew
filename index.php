@@ -100,7 +100,7 @@
 					</div>
 				</div>
 				<div class="divTableBody">
-					<div class="divTableRow" style="height: 520px;">
+					<div class="divTableRow" style="height: auto;">
 						<div id="product-video" class="divTableCellInfo" style="background: rgba(0,0,0,1);">
 							<div style="width: 100%; height: 0px; position: relative; padding-bottom: 62.500%;"><iframe src="https://streamable.com/e/uz4ndy" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 						</div>
@@ -194,7 +194,7 @@
 		<div class="divTableBody">
 			<div class="divTableCellInfo" style="text-align: center">
 				<div>
-					<center><div class="img-slider" style="width: 50%;">
+					<center><div class="img-slider">
 						<div class="slide active">
 						  <img src="1.png" alt="">
 						  <div class="info">
