@@ -33,6 +33,7 @@
 				<li><a href="#status" class="navigation__link"> Showcase</a></li>
 				<li><a href="#product-status" class="navigation__link">Product status</a></li>
 				<li><a href="#description" class="navigation__link">Description</a></li>
+				<li><a href="#pictures" class="navigation__link">Pictures</a></li>
 				<li><a href="#purchase" class="navigation__link">Purchase</a></li>
 				<li><a href="https://discord.gg/6RSccUTZ2z" class="navigation__link">Contact us</a></li>
 			</ul>
@@ -99,8 +100,10 @@
 					</div>
 				</div>
 				<div class="divTableBody">
-					<div class="divTableRow" style="height: 200px;">
-						<div style="width: 100%; height: 0px; position: relative; padding-bottom: 62.500%;"><iframe src="https://streamable.com/e/uz4ndy" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+					<div class="divTableRow" style="height: 520px;">
+						<div id="product-video" class="divTableCellInfo" style="background: rgba(0,0,0,1);">
+							<div style="width: 100%; height: 0px; position: relative; padding-bottom: 62.500%;"><iframe src="https://streamable.com/e/uz4ndy" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -180,12 +183,120 @@
 			</div>
 		</div>
 	</div>
+	<div class="divTable" style="max-width: 100%;">
+
+
+
+		<div class="divTableHeading">
+			<div id="status-title" class="divTableHeadCyan" style="text-align: center">GALLERY</div>
+		</div>
+		<a name="pictures"></a>
+		<div class="divTableBody">
+			<div class="divTableCellInfo" style="text-align: center">
+				<div>
+					<center><div class="img-slider" style="width: 50%;">
+						<div class="slide active">
+						  <img src="1.png" alt="">
+						  <div class="info">
+							
+						  </div>
+						</div>
+						<div class="slide">
+						  <img src="2.png" alt="">
+						  <div class="info">
+							
+						  </div>
+						</div>
+						<div class="slide">
+						  <img src="3.png" alt="">
+						  <div class="info">
+							
+						  </div>
+						</div>
+						<div class="slide">
+						  <img src="4.png" alt="">
+						  <div class="info">
+							
+							
+						  </div>
+						</div>
+						
+						
+						<div class="navigation">
+						  <div class="btn active"></div>
+						  <div class="btn"></div>
+						  <div class="btn"></div>
+						  <div class="btn"></div>
+						  <div class="btn"></div>
+						</div>
+					  </div>
+				  
+					  <script type="text/javascript">
+					  var slides = document.querySelectorAll('.slide');
+					  var btns = document.querySelectorAll('.btn');
+					  let currentSlide = 1;
+				  
+					  
+					  var manualNav = function(manual){
+						slides.forEach((slide) => {
+						  slide.classList.remove('active');
+				  
+						  btns.forEach((btn) => {
+							btn.classList.remove('active');
+						  });
+						});
+				  
+						slides[manual].classList.add('active');
+						btns[manual].classList.add('active');
+					  }
+				  
+					  btns.forEach((btn, i) => {
+						btn.addEventListener("click", () => {
+						  manualNav(i);
+						  currentSlide = i;
+						});
+					  });
+				  
+					  
+					  var repeat = function(activeClass){
+						let active = document.getElementsByClassName('active');
+						let i = 1;
+				  
+						var repeater = () => {
+						  setTimeout(function(){
+							[...active].forEach((activeSlide) => {
+							  activeSlide.classList.remove('active');
+							});
+				  
+						  slides[i].classList.add('active');
+						  btns[i].classList.add('active');
+						  i++;
+				  
+						  if(slides.length == i){
+							i = 0;
+						  }
+						  if(i >= slides.length){
+							return;
+						  }
+						  repeater();
+						}, 5000);
+						}
+						repeater();
+					  }
+					  repeat();
+					  </script>
+						</center>
+				</div>
+			</div>
+
+		</div>
 	</div>
 	<div style="text-align: center;">
 		<marquee id="contacts_string" class="extended-width" scrollamount="10" behavior="scroll" direction="left"
 			onmouseover="this.stop();" onmouseout="this.start();"><span>for questions and suggestions please contact any
 				of the sellers, or admins on Discord: <a target="_blank" href="https://discord.gg/6RSccUTZ2z"
 					class="magenta-text">https://discord.gg/6RSccUTZ2z</a></span></marquee>
+
 	</div>
 
 
@@ -194,7 +305,7 @@
 	<footer>
 
 	</footer>
-
+<script src="main.js"></script>
 </body>
 
 </html>
