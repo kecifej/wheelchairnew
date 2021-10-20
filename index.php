@@ -9,7 +9,7 @@
 	<meta name="description" content="Undetected tarkov ESP">
 	<meta name="keywords"
 		content="cheat, cheats, macro, macros, key, keys, account, accounts, digital products, digital services, tarkov, tarkov cheats, tarkov esp, esp, wallhack, tarkov wallhack, tarkov hack, wheelchair, wheelchairware, wheel chair ware, wheel chairware, ware, tarkov wheelchair, tarkov chair, tarkov wheelchairware, tarkov wheel chair ware, wheelchairware tarkov">
-
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel='stylesheet' href='style.css' type='text/css' media='all'>
 	
 	<link rel="icon" href="wh1.ico" type="image/x-icon">
