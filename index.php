@@ -14,7 +14,7 @@
 	
 	<link rel="icon" href="wh1.ico" type="image/x-icon">
 
-
+<meta name="google-site-verification" content="AJm39pPjGXIQochApssWuYrWiKDkihy1M5vTZaayiQs" />
 </head>
 
 <body>
