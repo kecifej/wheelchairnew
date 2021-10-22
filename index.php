@@ -6,9 +6,10 @@
 	<meta name="viewport" content="width=512">
 
 	<title> Undetected Tarkov ESP: WheelChair</title>
-	<meta name="description" content="Undetected Tarkov ESP: WheelChair from $4">
-	<meta name="keywords"
-		content="cheat, cheats, macro, macros, key, keys, account, accounts, digital products, digital services, tarkov, tarkov cheats, tarkov esp, esp, wallhack, tarkov wallhack, tarkov hack, wheelchair, wheelchairware, wheel chair ware, wheel chairware, ware, tarkov wheelchair, tarkov chair, tarkov wheelchairware, tarkov wheel chair ware, wheelchairware tarkov">
+	
+	
+	<meta name="keywords" content="eft hack, eft hacks, eft cheat, eft cheats, eft aimbot, eft esp, eft wallhack, undetected eft cheat, undetected eft cheats, undetected eft hack, undetected eft hacks, safe eft cheat, safe eft cheats, safe eft hack, safe eft hacks, escape from tarkov hack, escape from tarkov hacks, escape from tarkov cheat, escape from tarkov cheats, escape from tarkov aimbot, escape from tarkov esp, escape from tarkov wallhack, customizable eft hack, customizable eft hacks, customizable eft cheat, customizable eft cheats, best eft hack, best eft hacks, best eft cheat, best eft cheats, cheap eft hack, cheap eft hacks, cheap eft cheat, cheap eft cheats, free eft hack, free eft hacks, free eft cheat, free eft cheats, cheap escape from tarkov hack, cheap escape from tarkov hacks, cheap escape from tarkov cheat, cheap escape from tarkov cheats, ">
+	<meta name="description" content="Cheap and secure hacks for Escape from Tarkov. Get the safest and undetected EFT cheats here ✅Aimbot ✅ESP ✅ Wallhack for EFT">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel='stylesheet' href='style.css' type='text/css' media='all'>
 	
