@@ -15,6 +15,7 @@
 	<link rel="icon" href="wh1.ico" type="image/x-icon">
 
 <meta name="google-site-verification" content="AJm39pPjGXIQochApssWuYrWiKDkihy1M5vTZaayiQs" />
+<meta name="msvalidate.01" content="57F21DD9922ACC48EC00428A1DAA728C" />
 </head>
 
 <body>
