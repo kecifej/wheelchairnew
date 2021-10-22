@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=512">
 
-	<title>WheelChair</title>
+	<title>WheelChair Undetected ESP</title>
 	<meta name="description" content="Undetected tarkov ESP">
 	<meta name="keywords"
 		content="cheat, cheats, macro, macros, key, keys, account, accounts, digital products, digital services, tarkov, tarkov cheats, tarkov esp, esp, wallhack, tarkov wallhack, tarkov hack, wheelchair, wheelchairware, wheel chair ware, wheel chairware, ware, tarkov wheelchair, tarkov chair, tarkov wheelchairware, tarkov wheel chair ware, wheelchairware tarkov">
