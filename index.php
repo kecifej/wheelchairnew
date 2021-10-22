@@ -83,9 +83,9 @@
 						DESIGNER</a></p>
 				<a id="youtube_link" class="tooltip" target="_blank"
 					href="https://www.youtube.com/watch?v=dA6SabUgW5s&t=12s"><img class="zoom" src="YouTube.png"
-						alt="wcyt" width=64><span id="youtube_text" class="tooltiptext">#</span></a>
+						alt="Youtube logo" width=64><span id="youtube_text" class="tooltiptext">#</span></a>
 				<a id="discord_link" class="tooltip" target="_blank" href="https://discord.gg/6RSccUTZ2z"><img
-						class="zoom" src="Discord.png" alt="Discord" width=64><span id="discord_text"
+						class="zoom" src="Discord.png" alt="Discord logo" width=64><span id="discord_text"
 						class="tooltiptext">#</span></a>
 			</div>
 
@@ -104,7 +104,7 @@
 				</div>
 				<div class="divTableBody">
 					<div class="divTableRow" style="height: auto;">
-						<div id="product-video" class="divTableCellInfo" style="background: rgba(0,0,0,1);">
+						<div id="product-video" class="divTableCellInfo" style="background: rgba(0,0,0,1);" alt="showcase video">
 							<div style="width: 100%; height: 0px; position: relative; padding-bottom: 62.500%;"><iframe src="https://streamable.com/e/uz4ndy" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 						</div>
 					</div>
@@ -199,25 +199,25 @@
 				<div>
 					<center><div class="img-slider">
 						<div class="slide active">
-						  <img src="1.png" alt="">
+						  <img src="1.png" alt="showcase picture">
 						  <div class="info">
 							
 						  </div>
 						</div>
 						<div class="slide">
-						  <img src="2.png" alt="">
+						  <img src="2.png" alt="showcase picture">
 						  <div class="info">
 							
 						  </div>
 						</div>
 						<div class="slide">
-						  <img src="3.png" alt="">
+						  <img src="3.png" alt="showcase picture">
 						  <div class="info">
 							
 						  </div>
 						</div>
 						<div class="slide">
-						  <img src="4.png" alt="">
+						  <img src="4.png" alt="showcase picture">
 						  <div class="info">
 							
 							
