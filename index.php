@@ -12,7 +12,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel='stylesheet' href='style.css' type='text/css' media='all'>
 	
-	<link rel="icon" href="wh1.ico" type="image/x-icon">
+	<link rel="icon" href="wh1.ico" type="image/x-icon" alt="icon">
 
 <meta name="google-site-verification" content="AJm39pPjGXIQochApssWuYrWiKDkihy1M5vTZaayiQs" />
 <meta name="msvalidate.01" content="57F21DD9922ACC48EC00428A1DAA728C" />
