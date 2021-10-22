@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=512">
+	<meta http-equiv="content-language" content="en">
 
 	<title> Undetected Tarkov ESP: WheelChair</title>
 	
