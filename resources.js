@@ -5,7 +5,7 @@ var g_ressources = (function () {
     for (var i = 0; i < imgs.length; i++) {
         retval.push({
             type: "image",
-            src: 'sprites/' + imgs[i] + '.png'
+            src: imgs[i] + '.png'
         });
     }
 
