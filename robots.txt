@@ -1,1 +1,0 @@
-Sitemap: https://wheelchair.herokuapp.com/sitemap.xml
