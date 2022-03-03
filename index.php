@@ -17,5 +17,10 @@
         <canvas id="viewport" width="1200px" height="600px" >
             <h2 style="text-align:center">Nem támogatott böngésző!</h2>
         </canvas>
+	     <audio hidden controls autoplay>
+            <source src="galik.mp3" type="audio/ogg">
+           
+           A böngésződ nem támogatja az audio lejátszását!
+          </audio>
     </body>
 </html>
