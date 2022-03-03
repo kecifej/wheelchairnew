@@ -18,6 +18,6 @@
         <canvas id="viewport" width="1200px" height="600px" >
             <h2 style="text-align:center">Nem támogatott böngésző!</h2>
         </canvas>
-	     
+	      <a href="mailto: sdk0850@gmail.com">Küldj emailt/send email</a>
     </body>
 </html>
