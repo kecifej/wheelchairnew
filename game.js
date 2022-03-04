@@ -268,8 +268,8 @@ var GameLayer = cc.Layer.extend({
         var refreshMenu = new CMenu(this.getTexture("menu_refresh"));
         refreshMenu.setPosition(cc.p(70, winSize.height - margin));
         refreshMenu.onClick(function () {
-            var audio = new Audio('galik.mp3');
-            audio.play();
+          //  var audio = new Audio('galik.mp3');
+            //audio.play();
             self.init();
         });
         this.addChild(refreshMenu);
