@@ -9,9 +9,6 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>WheelChair &mdash; Trusted Service since years.</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FreeHTML5.co" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
 
 
   	<!-- Facebook and Twitter integration -->
@@ -74,7 +71,7 @@
 				<div class="text-inner">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center">
-							<h1 class="to-animate">WheelChair - Services</h1>
+							<h1 class="to-animate">WheelChair - <span class="to-animate" style="color:darkmagenta;">Services</h1>
 							<h2 class="to-animate"><i>Trusted EFT Cheat provider since Years.</i></h2>
 							
 						</div>
@@ -89,7 +86,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
-						<h2 class="to-animate">Cheat Features</h2>
+						<h2 class="to-animate">Cheat<span class="to-animate" style="color:darkmagenta;"> Features</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext">
 								<h3 class="to-animate">EFT Cheat for the cheapest Price possible.
@@ -178,28 +175,16 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">GALLERY</h2>
+					<h2 class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">GALLERY</h2>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>Pictures about how the cheat looks 'n stuff.</h3>
+							<h3>Pictures about how the cheat looks<span class="to-animate" style="color:darkmagenta;"> 'n</span> stuff.</h3>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="fh5co-project">
-			<div class="container">
-				<div class="row">
-
-
-
-				
-				</div>
-			</div>	
-		</div>
 	</section>
-
-
 
 <div class="all-slider">	
 	<div class="slider">
@@ -252,15 +237,12 @@
 	</script>
 </div>
 
-
-
-
 	<section id="fh5co-pricing" data-section="pricing">
 		<div class="fh5co-pricing">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
-						<h2 class="to-animate">PRICES</h2>
+						<h2 class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">PRICES</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext">
 								<h3 class="to-animate">The cheapest price You can find on the Market! </h3>
@@ -273,7 +255,7 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="price-box to-animate">
 							<h2 class="pricing-plan">1 Day License Key</h2>
-							<div class="price"><sup class="currency">$</sup>2.5</div>
+							<div class="price"><sup class="currency" style="color:darkmagenta;">$</sup>2.5</div>
 							<p>After the activation You will have 24h playtime.</p>
 							<hr>
 							<ul class="pricing-info">
@@ -288,7 +270,7 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="price-box to-animate">
 							<h2 class="pricing-plan">7 Day License Key</h2>
-							<div class="price"><sup class="currency">$</sup>15</div>
+							<div class="price"><sup class="currency" style="color:darkmagenta;">$</sup>15</div>
 							<p>After the activation You will have 7 day playtime</p>
 							<hr>
 							<ul class="pricing-info">
@@ -303,9 +285,9 @@
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-md-3 col-sm-6 to-animate">
 						<div class="price-box popular">
-							<div class="popular-text">Best value</div>
+							<div class="popular-text">Best Offer</div>
 							<h2 class="pricing-plan">15 Day License Key</h2>
-							<div class="price"><sup class="currency">$</sup>25</div>
+							<div class="price"><sup class="currency" style="color:darkmagenta;">$</sup>25</div>
 							<p>After the activation You will have 15 day playtime</p>
 							<hr>
 							<ul class="pricing-info">
@@ -320,7 +302,7 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="price-box to-animate">
 							<h2 class="pricing-plan">30 Day License Key</h2>
-							<div class="price"><sup class="currency">$</sup>40</div>
+							<div class="price"><sup class="currency" style="color:darkmagenta;">$</sup>40</div>
 							<p>After the activation You will have 1 month playtime</p>
 							<hr>
 							<ul class="pricing-info">
@@ -362,6 +344,8 @@
 					<ul class="contact-info">
 						<li><i class="icon-youtube"></i><a href="https://www.youtube.com/channel/UCC8HpBjCNIwoj3ZDJXrBQoQ/videos">WheelChairWare</a></li>
 						<li><i class="fa-brands fa-discord"></i><a href="https://discord.gg/Bta2tJgUdR">Discord</a></li>
+						<li><i class="fa fa-globe" aria-hidden="true"></i><a href="http://wheelchair-old.herokuapp.com/">Old Website</a></li>
+
 					</ul>
 				</div>
 				
