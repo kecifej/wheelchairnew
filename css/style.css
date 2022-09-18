@@ -35,7 +35,7 @@ body::-webkit-scrollbar{
 }
 
 a {
-  color: #8C7676;
+  color: darkmagenta;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -59,17 +59,17 @@ h1, h2, h3, h4, h5, h6 {
 
 ::-webkit-selection {
   color: #fff;
-  background: #8C7676;
+  background: dimgrey;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #8C7676;
+  background: dimgrey;
 }
 
 ::selection {
   color: #fff;
-  background: #8C7676;
+  background:dimgrey;
 }
 
 .navbar-collapse {
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-header #navbar li a {
   font-family: "Inconsolata", Arial, sans-serif;
-  background: rgba(255, 255, 255, 0.2);
+  background: #8C7676;;
   position: relative;
   font-size: 16px;
   font-weight: 400;
@@ -557,7 +557,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .core-features .grid2 .core-f .core i {
   float: left;
-  color: #8C7676;
+  color:darkmagenta;
   font-size: 28px;
 }
 .core-features .grid2 .core-f .core .fh5co-post {
@@ -726,7 +726,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   font-size: 22px;
-  color: #8C7676;
+  color:darkmagenta;
 }
 #fh5co-footer .social-media {
   margin: 0 0 30px 0;
@@ -994,6 +994,7 @@ h1, h2, h3, h4, h5, h6 {
 .slide img {
   width: 800px;
   height: 500px;
+  border-radius: 10px;
 }
 
 .navigation-manual{
