@@ -11,7 +11,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-  	<!-- Facebook and Twitter integration -->
+	<meta name="description" content="Truest Escape From Tarkov cheat provider since years!" />
+	<meta name="keywords" content="cheat, eft, tarkov cheat, best tarkov cheat, best cheat, wallhack, best tarkov wallhack, cheap hack, cheap tarkov hack, cheap tarkov cheat, cheap tarkov esp, cheap tarkov wallhack, tarkov walhack, wallhack, tarkov undetected cheat, tarkov undetected wallhack" />
+	<meta name="author" content="wheelchair software development />
+
+
+
+  	
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
@@ -22,7 +28,7 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
@@ -46,7 +52,7 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-
+	<meta name="google-site-verification" content="AJm39pPjGXIQochApssWuYrWiKDkihy1M5vTZaayiQs" />
 	</head>
 	<body>
 	<header role="banner" id="fh5co-header">
