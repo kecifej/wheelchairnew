@@ -9,15 +9,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>WheelChair &mdash; Trusted Service since years.</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
 	<meta name="description" content="Truest Escape From Tarkov cheat provider since years!" />
-	<meta name="keywords" content="cheat, eft, tarkov cheat, best tarkov cheat, best cheat, wallhack, best tarkov wallhack, cheap hack, cheap tarkov hack, cheap tarkov cheat, cheap tarkov esp, cheap tarkov wallhack, tarkov walhack, wallhack, tarkov undetected cheat, tarkov undetected wallhack" />
-	<meta name="author" content="wheelchair software development />
-
-
-
-  	
+	<meta name="keywords" content="cheat, eft, tarkov cheat, best tarkov cheat, best cheat, wallhack, best tarkov wallhack, cheap hack, cheap tarkov hack, cheap tarkov cheat, cheap tarkov esp, cheap tarkov wallhack, tarkov walhack, wallhack, tarkov undetected cheat, tarkov undetected wallhack, tarkov discord, tarkov cheat discord, discord tarkov, discord tarkov, cheating community, cheating community discord, tarkov cheating community" />
+	<meta name="author" content="wheelchair software development"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
@@ -211,7 +206,6 @@
 			<div class="slide">
 				<img src="images/gallery4.png">
 			</div>
-
 			<div class="navigation-auto">
 				<div class="auto-btn1"></div>
 				<div class="auto-btn2"></div>
@@ -248,10 +242,10 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
-						<h2 class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">PRICES</h2>
+						<h2 id="prices" class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">PRICES</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext">
-								<h3 class="to-animate">The cheapest price You can find on the Market! </h3>
+								<h3 id="prices-text" class="to-animate">The cheapest price You can find on the Market! </h3>
 							</div>
 						</div>
 					</div>
