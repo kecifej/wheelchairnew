@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 30px;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.8);
-  margin: 0 0 60px 0;
+  margin: 0 0 0 0;
 }
 
 #fh5co-services,
@@ -337,13 +337,12 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-work,
 #fh5co-counters,
 #fh5co-pricing {
-  padding: 8em 0;
+  padding: 2em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-services,
   #fh5co-explore,
   #fh5co-team,
-  #fh5co-footer,
   #fh5co-work,
   #fh5co-counters,
   #fh5co-pricing {
@@ -1098,12 +1097,15 @@ cursor: pointer;
 }
 
 @media screen and (max-width: 412px){
+  body{
+    height: 100%;
+    width: 100%;
+  }
   .manual-btn:hover{
     background: white;
     }
   #prices{
-        border-top: 20%;
-        padding-top: 0;
+        padding-top: 20%;
     }
   #prices-text{
    padding: 0;
@@ -1114,9 +1116,12 @@ cursor: pointer;
   }
   .manual-btn{
     width: 0;
-    display: flow-root;
+  }
+  .radio-btn{
+    display:flow-root;
   }
 
-
 }
+
+
 
