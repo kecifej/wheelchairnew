@@ -39,7 +39,6 @@
 	<!-- Style -->
 	<link rel="stylesheet" href="css/style.css">
 
-
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<script src="https://kit.fontawesome.com/c2a1ac95b3.js" crossorigin="anonymous"></script>
@@ -50,19 +49,16 @@
 	<meta name="google-site-verification" content="AJm39pPjGXIQochApssWuYrWiKDkihy1M5vTZaayiQs" />
 	</head>
 	<body>
-	<header role="banner" id="fh5co-header">
-		<div class="fluid-container">
-			<nav class="navbar navbar-default navbar-fixed-top js-fullheight">
-				<div id="navbar" class="navbar-collapse js-fullheight">
-					<ul class="nav navbar-nav navbar-left">
-						<li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
-						<li><a href="#" data-nav-section="services"><span>Features</span></a></li>
-						<li><a href="#" data-nav-section="explore"><span>Gallery</span></a></li>
-						<li><a href="#" data-nav-section="pricing"><span>Pricing</span></a></li>
-					</ul>
-				</div>
-			</nav>
-	  </div>
+<!-- NEW NAVIGATION-->
+<header>
+	<img class="logo to-animate fadeInUp animated" src="/images/logo.png">
+	  <nav>
+		<ul class="nav__links to-animate fadeInUp animated">
+			<li><a href="#cheat-features" data-nav-section="features">Features</a></li>
+			<li><a href="#gallery" data-nav-section="gallery">Gallery</a></li>
+			<li><a href="#prices" data-nav-section="prices">Pricing</a></li>
+		</ul>
+	  </nav>
 	</header>
 
 	<section id="fh5co-home" data-section="home" style="background-image: url(images/fekete.jpg);" data-stellar-background-ratio="0.5">
@@ -73,21 +69,19 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center">
 							<h1 class="to-animate">WheelChair - <span class="to-animate" style="color:darkmagenta;">Services</h1>
-							<h2 class="to-animate"><i>Trusted EFT Cheat provider since Years.</i></h2>
-							
+							<h2 class="to-animate"><i>Trusted EFT Cheat provider since Years.</i></h2>							
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
 	<section id="fh5co-services" data-section="services">
 		<div class="fh5co-services">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
-						<h2 class="to-animate">Cheat<span class="to-animate" style="color:darkmagenta;"> Features</h2>
+						<h2 id="cheat-features" class="to-animate">Cheat<span class="to-animate" style="color:darkmagenta;"> Features</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext">
 								<h3 class="to-animate">EFT Cheat for the cheapest Price possible.
@@ -176,7 +170,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">GALLERY</h2>
+					<h2 id="gallery" class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">GALLERY</h2>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
 							<h3>Pictures about how the cheat looks<span class="to-animate" style="color:darkmagenta;"> 'n</span> stuff.</h3>
@@ -242,6 +236,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
+						<br>
 						<h2 id="prices" class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">PRICES</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext">
@@ -264,7 +259,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
@@ -279,7 +274,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
@@ -296,7 +291,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
@@ -311,7 +306,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 				</div>
@@ -319,7 +314,7 @@
 
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 col-md-push-3 to-animate">
-						<p>* For lifetime access please Contact Us via <a href="https://discord.gg/Bta2tJgUdR">Discord.</a></p>
+						<p>* For lifetime access please Contact Us via <a href="https://discord.gg/EXDCUGt7GH">Discord.</a></p>
 						<p>* Join Discord by pressing 'Discord' text above.</p>
 					</div>
 				</div>
@@ -352,6 +347,40 @@
 			</div>
 		</div>
 	</div>
+</div>
+  <div class="snowflakes" aria-hidden="true">
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❆
+	</div>
+	<div class="snowflake">
+	❄
+	</div>
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❆
+	</div>
+	<div class="snowflake">
+	❄
+	</div>
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❆
+	</div>
+	<div class="snowflake">
+	❄
+	</div>
+  </div>
+
 	<!-- <div id="map" class="fh5co-map"></div> -->
 
 	
