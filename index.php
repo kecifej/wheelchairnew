@@ -39,7 +39,6 @@
 	<!-- Style -->
 	<link rel="stylesheet" href="css/style.css">
 
-
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<script src="https://kit.fontawesome.com/c2a1ac95b3.js" crossorigin="anonymous"></script>
@@ -73,15 +72,13 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center">
 							<h1 class="to-animate">WheelChair - <span class="to-animate" style="color:darkmagenta;">Services</h1>
-							<h2 class="to-animate"><i>Trusted EFT Cheat provider since Years.</i></h2>
-							
+							<h2 class="to-animate"><i>Trusted EFT Cheat provider since Years.</i></h2>							
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
 	<section id="fh5co-services" data-section="services">
 		<div class="fh5co-services">
 			<div class="container">
@@ -242,6 +239,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
+						<br>
 						<h2 id="prices" class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">PRICES</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext">
@@ -264,7 +262,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
@@ -279,7 +277,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
@@ -296,7 +294,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
@@ -311,7 +309,7 @@
 								<li>🟢 NoRecoil   </li>
 								<li>&nbsp;🟢 Big Heads  </li>
 							</ul>
-							<p><a href="https://discord.gg/Bta2tJgUdR" class="btn btn-primary">Buy through DISCORD</a></p>
+							<p><a href="https://discord.gg/EXDCUGt7GH" class="btn btn-primary">Buy through DISCORD</a></p>
 						</div>
 					</div>
 				</div>
@@ -319,7 +317,7 @@
 
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 col-md-push-3 to-animate">
-						<p>* For lifetime access please Contact Us via <a href="https://discord.gg/Bta2tJgUdR">Discord.</a></p>
+						<p>* For lifetime access please Contact Us via <a href="https://discord.gg/EXDCUGt7GH">Discord.</a></p>
 						<p>* Join Discord by pressing 'Discord' text above.</p>
 					</div>
 				</div>
@@ -352,6 +350,40 @@
 			</div>
 		</div>
 	</div>
+</div>
+  <div class="snowflakes" aria-hidden="true">
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❆
+	</div>
+	<div class="snowflake">
+	❄
+	</div>
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❆
+	</div>
+	<div class="snowflake">
+	❄
+	</div>
+	<div class="snowflake">
+	❅
+	</div>
+	<div class="snowflake">
+	❆
+	</div>
+	<div class="snowflake">
+	❄
+	</div>
+  </div>
+
 	<!-- <div id="map" class="fh5co-map"></div> -->
 
 	
