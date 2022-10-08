@@ -49,19 +49,16 @@
 	<meta name="google-site-verification" content="AJm39pPjGXIQochApssWuYrWiKDkihy1M5vTZaayiQs" />
 	</head>
 	<body>
-	<header role="banner" id="fh5co-header">
-		<div class="fluid-container">
-			<nav class="navbar navbar-default navbar-fixed-top js-fullheight">
-				<div id="navbar" class="navbar-collapse js-fullheight">
-					<ul class="nav navbar-nav navbar-left">
-						<li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
-						<li><a href="#" data-nav-section="services"><span>Features</span></a></li>
-						<li><a href="#" data-nav-section="explore"><span>Gallery</span></a></li>
-						<li><a href="#" data-nav-section="pricing"><span>Pricing</span></a></li>
-					</ul>
-				</div>
-			</nav>
-	  </div>
+<!-- NEW NAVIGATION-->
+<header>
+	<img class="logo to-animate fadeInUp animated" src="/images/logo.png">
+	  <nav>
+		<ul class="nav__links to-animate fadeInUp animated">
+			<li><a href="#cheat-features" data-nav-section="features">Features</a></li>
+			<li><a href="#gallery" data-nav-section="gallery">Gallery</a></li>
+			<li><a href="#prices" data-nav-section="prices">Pricing</a></li>
+		</ul>
+	  </nav>
 	</header>
 
 	<section id="fh5co-home" data-section="home" style="background-image: url(images/fekete.jpg);" data-stellar-background-ratio="0.5">
@@ -84,7 +81,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
-						<h2 class="to-animate">Cheat<span class="to-animate" style="color:darkmagenta;"> Features</h2>
+						<h2 id="cheat-features" class="to-animate">Cheat<span class="to-animate" style="color:darkmagenta;"> Features</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext">
 								<h3 class="to-animate">EFT Cheat for the cheapest Price possible.
@@ -173,7 +170,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">GALLERY</h2>
+					<h2 id="gallery" class="to-animate">CHEAT <span class="to-animate" style="color:darkmagenta;">GALLERY</h2>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
 							<h3>Pictures about how the cheat looks<span class="to-animate" style="color:darkmagenta;"> 'n</span> stuff.</h3>
