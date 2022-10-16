@@ -7,7 +7,8 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>WheelChair &mdash; Trusted Service since years.</title>
+	<title>WheelChair > Services</title>
+	<link rel="icon" type="image/x-icon" href="/images/logo.png">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Truest Escape From Tarkov cheat provider since years!" />
 	<meta name="keywords" content="cheat, eft, tarkov cheat, best tarkov cheat, best cheat, wallhack, best tarkov wallhack, cheap hack, cheap tarkov hack, cheap tarkov cheat, cheap tarkov esp, cheap tarkov wallhack, tarkov walhack, wallhack, tarkov undetected cheat, tarkov undetected wallhack, tarkov discord, tarkov cheat discord, discord tarkov, discord tarkov, cheating community, cheating community discord, tarkov cheating community" />
@@ -23,8 +24,8 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	
-	<link rel="shortcut icon" href="favicon.ico">
+
+	<!--<link rel="shortcut icon" href="favicon.ico">--> 
 
 	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
 	
@@ -380,7 +381,6 @@
 	❄
 	</div>
   </div>
-
 	<!-- <div id="map" class="fh5co-map"></div> -->
 
 	
