@@ -1025,11 +1025,9 @@ justify-content: center;
   /*cursor: pointer; */
   transition: 1s;
   position: relative;
+  margin-right: -20vh;
 }
 
-.manual-btn:not(:last-child){
-margin-right: 40px;
-}
 
 .manual-btn:hover{
 background: white;
@@ -1055,34 +1053,36 @@ cursor: pointer;
   width: 800px;
   justify-content: center;
   margin-top: 460px;
+  margin-right: -20vh;
 }
 
 .navigation-auto div{
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 5px;
   border-radius: 10px;
   transition: 1s;
+  margin-right: -20vh;
+  
 }
 
 .navigation-auto div:not(:last-child){
-  margin-right: 40px;
-
+  margin-right: -20vh;
 }
 
 #radio1:checked ~ .navigation-auto .auto-btn1{
-  background:black;
+  background:white;
 }
 
 #radio2:checked ~ .navigation-auto .auto-btn2{
-  background:black;
+  background:white;
 }
 
 #radio3:checked ~ .navigation-auto .auto-btn3{
-  background:black;
+  background:white;
 }
 
 #radio4:checked ~ .navigation-auto .auto-btn4{
-  background:black;
+  background:white;
 }
 
 @media screen and (max-width: 765px) {
@@ -1162,6 +1162,7 @@ header{
   justify-content: space-between;
   align-items: center;
   padding: 30px 10%;
+  background:black;
 }
 
 .nav__links{
@@ -1171,13 +1172,14 @@ header{
 
 .nav__links li{
   display: inline-block;
-  padding: 0px 160px;
+  padding: 0px 144px;
 }
 
 
 .nav__links li a{
   transition: all 0.3s ease 0s;
-  border: 10px;
+  border: 30px;
+  font-size: 21px;
 }
 
 
